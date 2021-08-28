@@ -5,7 +5,7 @@
   </div>
 </template>
 <script>
-import MainTabBar from './components/mainTabbar/MainTabbar'
+import MainTabBar from './components/common/mainTabbar/MainTabbar'
 export default {
   components: {
     MainTabBar
